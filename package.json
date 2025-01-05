@@ -1,0 +1,27 @@
+{
+  "name": "unicode-icons",
+  "version": "2025.5.1",
+  "description": "simple set of unicode icon characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fingerskier/unicode-icons.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javascript",
+    "unicode",
+    "characters",
+    "icons"
+  ],
+  "author": "fingerskier",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fingerskier/unicode-icons/issues"
+  },
+  "homepage": "https://github.com/fingerskier/unicode-icons#readme"
+}
