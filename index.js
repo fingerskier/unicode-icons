@@ -82,6 +82,7 @@ export const CHAR = {
   QUESTION: '❓',
   RED_X: '❌',
   REFRESH: '🔄',
+  REFRESH2: '⟳',
   REPEAT: '🔁',
   REWIND: '⏪',
   SAD: '😞',
