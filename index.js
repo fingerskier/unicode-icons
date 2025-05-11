@@ -67,6 +67,7 @@ export const CHAR = {
   FORWARD: '⏩',
   GEAR: '⚙️',
   GLASS: '🥛',
+  GLOBE: '🌐',
   GREEN_X: '❎',
   HAMMER: '🔨',
   HAMBURGER: '🍔',
