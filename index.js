@@ -130,6 +130,7 @@ export const CHAR = {
   REFRESH2: '⟳',
   REPEAT: '🔁',
   REWIND: '⏪',
+  ROCKET: '🚀',
   ROOK: '♖',
   SAD: '😞',
   SCRIPT: '📜',
