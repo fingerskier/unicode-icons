@@ -160,11 +160,8 @@ export const CHAR = {
   REFRESH2: '⟳',
   REPEAT: '🔁',
   REWIND: '⏪',
-<<<<<<< HEAD
   ROBOT: '🤖',
-=======
   ROCKET: '🚀',
->>>>>>> 5adc89c859b8e21145c0abcbb4e009bc2f3a5e65
   ROOK: '♖',
   SAD: '😞',
   SCRIPT: '📜',
