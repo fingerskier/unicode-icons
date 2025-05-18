@@ -79,6 +79,7 @@ export const CHAR = {
   EQUAL: '⩵',
   EXCHANGE: '💱',
   EYE: '👁️',
+  EYE_CLOSED: '👁️‍🗨️',
   FACE: {
     ANGRY: '😠',
     CONFUSED: '😕',
