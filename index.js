@@ -211,6 +211,7 @@ export const CHAR = {
   TRASH2: '🚮',
   TRIANGLE: '△',
   UNLOCK: '🔓',
+  UPLOAD: '📤',
   VOLUME_DOWN: '🔉',
   VOLUME_UP: '🔊',
   WARNING_HOLLOW: '⚠',
