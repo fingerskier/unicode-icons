@@ -4,7 +4,6 @@ export const CHAR = {
   ALARM_CLOCK: '⏰',
   ANGLE_LEFT: '«',
   ANGLE_RIGHT: '»',
-  ANGLE_DOUBLE_RIGHT: '»',
   ANIMAL: {
     DOG: '🐶',
     CAT: '🐱',
