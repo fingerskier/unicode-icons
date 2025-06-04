@@ -97,6 +97,7 @@ export const CHAR = {
   DOLLAR: '💲',
   DONT_PANIC: '💊',
   DOT: '•',
+  DOWNLOAD: '📥',
   DROPLET: '💧',
   ELLIPSIS: '⋯',
   EJECT: '⏏️',
