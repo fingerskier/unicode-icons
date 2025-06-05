@@ -2,10 +2,12 @@
   "name": "unicode-icons",
   "version": "2025.6.5",
   "description": "simple set of unicode icon characters",
-  "main": "index.ts",
-  "types": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "type": "module",
   "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
     "test": "npx tsx test.ts"
   },
   "repository": {
@@ -25,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/fingerskier/unicode-icons/issues"
   },
-  "homepage": "https://github.com/fingerskier/unicode-icons#readme"
+  "homepage": "https://github.com/fingerskier/unicode-icons#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
