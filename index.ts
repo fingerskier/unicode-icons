@@ -345,6 +345,6 @@ export const CHAR = {
   },
   WRENCH: '🔧',
   WRISTWATCH: '⌚',
-}
+} as const
 
-export default CHAR
+export default CHAR 
