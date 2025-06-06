@@ -77,7 +77,16 @@ export const CHAR = {
   CLOUD: '☁️',
   COIN: '🪙',
   COMPUTER: '💻',
-  CURRENCY: '💱',
+  CURRENCY: {
+    DOLLAR: '💲',
+    EURO: '€',
+    POUND: '£',
+    YEN: '¥',
+    RUBLE: '₽',
+    YUAN: '¥',
+    WON: '₩',
+  },
+  CYCLE: '💱',
   DARROW_DOWN: '⇩',
   DARROW_UP: '⇧',
   DARROW_LEFT: '⇦',
@@ -345,6 +354,11 @@ export const CHAR = {
   },
   WRENCH: '🔧',
   WRISTWATCH: '⌚',
+  X: {
+    PLAIN: '✖',
+    RED: '❌',
+    WHITE_GREEN: '❎',
+  }
 } as const
 
 export default CHAR 
