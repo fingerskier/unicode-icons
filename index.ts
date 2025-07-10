@@ -253,6 +253,7 @@ export const CHAR = {
     RADIO: '📻',
     TAPE: '📼',
     MOVIE: '📽',
+    PRINTER: "🖨️",
     STEREO: '📾',
   },
   DIAMOND: {
