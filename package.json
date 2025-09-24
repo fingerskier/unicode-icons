@@ -1,6 +1,6 @@
 {
   "name": "unicode-icons",
-  "version": "2025.6.7",
+  "version": "2025.9.24",
   "description": "simple set of unicode icon characters",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
