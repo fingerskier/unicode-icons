@@ -253,14 +253,8 @@ export const CHAR = {
     TABLET: '📱',
     TABLET_PLUS: '📲',
     TAPE: '📼',
-<<<<<<< HEAD
     TELEVISION: '📺',
     VIDEO_CAMERA: '📹',
-=======
-    MOVIE: '📽',
-    PRINTER: "🖨️",
-    STEREO: '📾',
->>>>>>> 576a50561092b185106ab2b37cc59874888adf99
   },
   DIAMOND: {
     ORANGE: '🔶',
@@ -299,6 +293,15 @@ export const CHAR = {
     SURPRISED: '😲',
     SCARED: '😱',
     THINKING: '🤔',
+  },
+  FANTASY: {
+    DRAGON: '🐉',
+    UNICORN: '🦄',
+    FAIRY: '🧚',
+    ELF: '🧝',
+    MERMAID: '🧜',
+    GENIE: '🧞',
+    TROLL: '🧌',
   },
   FEMALE: '♀️',
   CLIPBOARD: '📋',
